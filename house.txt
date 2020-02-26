@@ -1,0 +1,1 @@
+NewRest ScrambledEggs Class Hungry gotoSAO done Breakfast 0 FreeTacos 25 done AcademicArea Class Lost&Found done LostCalculator 0 done Building9 Lost&Found Hungry done ThankYou 0 done SAO gotoSAO Finished! done CashPRIZE 5000 done done ScrambledEggs
