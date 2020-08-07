@@ -22,4 +22,4 @@ Pull requests are welcome. Keep in mind that this is a **beginner's** first code
 The implementations were appropriate for the material that was covered in the time that the code was first written, *especially with CSC2302*.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/therhamza/C-Programming/blob/Structure-Based-Codes/LISENCE)
