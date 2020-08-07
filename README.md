@@ -4,6 +4,7 @@
 These codes were written in parallel with taking the following courses either as *homework* or as *practice*:
 * **CSC 1401:** Introduction to Computer Programming
 * **CSC 2302:** Data Structures
+
 They are fairly simple exercices done with the sole purpose of using theoretical learning for more practical uses.
 
 ## Installation
